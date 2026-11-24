@@ -1,7 +1,7 @@
 {
-  "entry_text": "The committee that made three crypto CEOs walk it through the blockchain line by immutable line, unable to turn its own report into a PDF, entered it into the record as forty-one phone photos of a Word document, one of them mostly thumb.",
-  "entry_characters": 237,
-  "entry_bytes": 237,
+  "entry_text": "The senators who just ordered every crypto exchange to keep tamper-proof records filed their own bill as forty-one phone photos of a Word document, since none of them could make a PDF, and page nine is a thumb.",
+  "entry_characters": 210,
+  "entry_bytes": 210,
   "entrypoint": "main.ts",
   "what_it_does": "Writes one satirical sentence to /output/entry.txt; identical bytes on every run.",
   "files": {
